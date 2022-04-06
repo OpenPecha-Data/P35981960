@@ -1,0 +1,103 @@
+id: 7f63b287d9ed45d9b7f17b7151c9f173
+annotation_type: Pagination
+revision: '00001'
+annotations:
+  9d61dfb159594e19b0da7af78eaaafcd:
+    span:
+      start: 0
+      end: 3465
+    metadata:
+      page_no: 1
+    page_info: null
+    imgnum: null
+    reference: null
+  191fcc5229e04509b6f0d98dcf78860e:
+    span:
+      start: 3467
+      end: 7463
+    metadata:
+      page_no: 2
+    page_info: null
+    imgnum: null
+    reference: null
+  843436dd0d1a480fa623bca638007905:
+    span:
+      start: 7465
+      end: 10438
+    metadata:
+      page_no: 3
+    page_info: null
+    imgnum: null
+    reference: null
+  f44c00179f7a4e71a1570896a1c21738:
+    span:
+      start: 10440
+      end: 12990
+    metadata:
+      page_no: 4
+    page_info: null
+    imgnum: null
+    reference: null
+  4931833726824a24be695261bfe5b20d:
+    span:
+      start: 12992
+      end: 15527
+    metadata:
+      page_no: 5
+    page_info: null
+    imgnum: null
+    reference: null
+  afa9eb9edc5f42beae39655e607efafd:
+    span:
+      start: 15529
+      end: 18042
+    metadata:
+      page_no: 6
+    page_info: null
+    imgnum: null
+    reference: null
+  a3e96b3a1c424c00b817c8a5e5bd036d:
+    span:
+      start: 18044
+      end: 20555
+    metadata:
+      page_no: 7
+    page_info: null
+    imgnum: null
+    reference: null
+  5f32303a34264b3b8cd24fdffdfdce97:
+    span:
+      start: 20557
+      end: 23066
+    metadata:
+      page_no: 8
+    page_info: null
+    imgnum: null
+    reference: null
+  914c4f0a685b412b8ab3add1ae3f4f8b:
+    span:
+      start: 23068
+      end: 25569
+    metadata:
+      page_no: 9
+    page_info: null
+    imgnum: null
+    reference: null
+  221acade51374b98b21b957b2866f97a:
+    span:
+      start: 25571
+      end: 28268
+    metadata:
+      page_no: 10
+    page_info: null
+    imgnum: null
+    reference: null
+  e104377068a440b7b9613e3b1c602cfc:
+    span:
+      start: 28270
+      end: 31154
+    metadata:
+      page_no: 11
+    page_info: null
+    imgnum: null
+    reference: null
